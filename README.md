@@ -18,9 +18,7 @@ now focus in on what they are interested in.
 
 ## Summary
 
-One drawback of this new design is that although the filters were made more robust, by removing the button to visually
-prompt the user to activate the filters, there was no replacement instruction added prompting the user to press "Enter"
-in order to apply their final filter selection.
+One drawback of this new design is that although the filters were made more robust, after removing the button to visuallyprompt the user to activate the filters, there was no replacement instruction added prompting the user to press "Enter" in order to apply their final filter selection. This may lead to some confusion
 
 ### Suggestions
 
